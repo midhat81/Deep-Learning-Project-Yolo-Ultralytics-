@@ -1,2 +1,2 @@
-# Deep-Learning-Project-Yolo-Ultralytics-
+# Deep-Learning-Project-Yolo-Ultralytics
 Deep_Learning 
